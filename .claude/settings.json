@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node update-system.mjs check)",
+      "Bash(node update-system.mjs check 2>/dev/null)",
+      "Bash(curl -s *)",
+      "Bash(node cv-sync-check.mjs)"
+    ]
+  }
+}
