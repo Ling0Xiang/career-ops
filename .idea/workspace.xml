@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ebaefc-4510-4db9-87d4-729d1fc2bacb" name="Changes" comment="" />
+    <list default="true" id="15ebaefc-4510-4db9-87d4-729d1fc2bacb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.claude/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-prep/story-bank.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview-prep/story-bank.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,23 +19,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.8018711563318353" />
-      <entry key="MS500" value="4.316590802163825" />
-      <entry key="S2" value="6.1137163806808" />
-      <entry key="S5" value="6.6231780633483055" />
-      <entry key="S10" value="6.807637530129839" />
-      <entry key="S30" value="6.934996072257555" />
-      <entry key="S60" value="6.994087113122883" />
-      <entry key="M2" value="8.026720194404952" />
-      <entry key="M5" value="17.172762848761643" />
-      <entry key="M10" value="30.410488480129096" />
-      <entry key="M15" value="38.46667024775014" />
-      <entry key="M30" value="49.79714214959805" />
-      <entry key="H1" value="57.15963337575437" />
-      <entry key="H2" value="61.37548054837148" />
-      <entry key="H4" value="63.63395672077344" />
-      <entry key="D1" value="66.39279913196012" />
-      <entry key="W1" value="103.38383115113312" />
+      <entry key="MS100" value="1.6204377729310437" />
+      <entry key="MS500" value="3.6034681051951183" />
+      <entry key="S2" value="5.147322420875622" />
+      <entry key="S5" value="5.629932329426" />
+      <entry key="S10" value="5.809695423661789" />
+      <entry key="S30" value="5.935349911123342" />
+      <entry key="S60" value="5.96752021525" />
+      <entry key="M2" value="5.983721206360485" />
+      <entry key="M5" value="5.993479118422491" />
+      <entry key="M10" value="5.996737996199985" />
+      <entry key="M15" value="5.997824983291764" />
+      <entry key="M30" value="5.998912317856387" />
+      <entry key="H1" value="5.999458897018703" />
+      <entry key="H2" value="6.001395845994386" />
+      <entry key="H4" value="6.0408180909209745" />
+      <entry key="D1" value="13.989634159821925" />
+      <entry key="W1" value="161.92768461320549" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -43,33 +47,33 @@
       <entry key="S60" value="0.0" />
       <entry key="M2" value="0.0" />
       <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="M10" value="1.6896165488962016E-234" />
+      <entry key="M15" value="1.41859612662921E-156" />
+      <entry key="M30" value="1.1910483309375825E-78" />
+      <entry key="H1" value="1.0913516073830582E-39" />
+      <entry key="H2" value="3.3035611200385776E-20" />
+      <entry key="H4" value="1.8175701142015371E-10" />
+      <entry key="D1" value="0.023800268810009427" />
+      <entry key="W1" value="0.5862503610230174" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.713614187820257" />
-      <entry key="MS500" value="4.251710109256945" />
-      <entry key="S2" value="6.090099241017543" />
-      <entry key="S5" value="6.61293977730234" />
-      <entry key="S10" value="6.80237716770645" />
-      <entry key="S30" value="6.933210317835378" />
-      <entry key="S60" value="6.993188240705357" />
-      <entry key="M2" value="8.026233356438365" />
-      <entry key="M5" value="17.17243059479906" />
-      <entry key="M10" value="30.410214841380604" />
-      <entry key="M15" value="38.46644202080866" />
-      <entry key="M30" value="49.79699481543937" />
-      <entry key="H1" value="57.15954866125434" />
-      <entry key="H2" value="61.37543499019691" />
-      <entry key="H4" value="63.633933079121206" />
-      <entry key="D1" value="66.39279504148692" />
-      <entry key="W1" value="103.3838303835347" />
+      <entry key="MS100" value="1.579789051179246" />
+      <entry key="MS500" value="3.585690540397814" />
+      <entry key="S2" value="5.140846994576316" />
+      <entry key="S5" value="5.627082686115023" />
+      <entry key="S10" value="5.808222038355843" />
+      <entry key="S30" value="5.934847444099963" />
+      <entry key="S60" value="5.967267528798263" />
+      <entry key="M2" value="5.983594497172107" />
+      <entry key="M5" value="5.99342834656462" />
+      <entry key="M10" value="5.996712595544568" />
+      <entry key="M15" value="5.997808046246756" />
+      <entry key="M30" value="5.998903847695971" />
+      <entry key="H1" value="5.999454661497851" />
+      <entry key="H2" value="6.001393718834648" />
+      <entry key="H4" value="6.0408169181122044" />
+      <entry key="D1" value="14.0134332842328" />
+      <entry key="W1" value="162.51393253860402" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,6 +108,27 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/output" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="career-ops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="career-ops" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -121,6 +146,8 @@
       <updated>1779146830275</updated>
       <workItem from="1779146835121" duration="31174000" />
       <workItem from="1779664824790" duration="18105000" />
+      <workItem from="1780442374925" duration="25316000" />
+      <workItem from="1781135985744" duration="23180000" />
     </task>
     <servers />
   </component>

@@ -4,7 +4,15 @@
       "Bash(node update-system.mjs check)",
       "Bash(node update-system.mjs check 2>/dev/null)",
       "Bash(curl -s *)",
-      "Bash(node cv-sync-check.mjs)"
+      "Bash(node cv-sync-check.mjs)",
+      "WebFetch",
+      "WebSearch",
+      "Bash(node scan.mjs *)",
+      "Bash(node scan.mjs)",
+      "Bash(node merge-tracker.mjs)",
+      "Bash(node merge-tracker.mjs *)",
+      "Bash(node verify-pipeline.mjs)",
+      "Bash(node generate-pdf.mjs *)"
     ]
   }
 }
